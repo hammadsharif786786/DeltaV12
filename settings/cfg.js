@@ -8,10 +8,10 @@
 */
 
 global.owner = [
-  "62858664357268", //ganti nomor owner
+  "3197010524743", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
-global.nomorbot = '62858664357268'
+global.nomorbot = '3197010524743'
 global.urlfoto = 'https://'
 global.anjg = 'Your bot is not register in database'
 
